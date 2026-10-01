@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Brazy
+GenericName=Lab Recon Console
+Comment=TCP connect sweep and banner grab for authorized lab targets
+Exec=/home/anonx/.local/bin/brazy
+Icon=brazy
+Terminal=false
+Categories=Network;Security;
+Keywords=recon;scan;ports;tcp;banner;lab;ctf;brazy;
+StartupNotify=true
+StartupWMClass=brazy
